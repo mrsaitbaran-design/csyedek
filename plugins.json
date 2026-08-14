@@ -1,17 +1,41 @@
 [
   {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/HDFilmCehennemi.cs3",
+    "status": 1,
+    "version": 97,
+    "name": "HDFilmCehennemi",
+    "internalName": "HDFilmCehennemi",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "HDFilmCehennemi - Türkiye'nin en hızlı hd film izleme sitesi.",
+    "fileSize": 77589,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=http://hdfilmcehennemi.nl"
+  },
+  {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/AnimeciX.cs3",
     "status": 1,
     "version": 88,
     "name": "AnimeciX",
     "internalName": "AnimeciX",
-    "authors": ["kraptor", "ByAyzen", "inatchii", "JustRelaxable"],
+    "authors": [
+      "kraptor",
+      "ByAyzen",
+      "inatchii",
+      "JustRelaxable"
+    ],
     "description": "AnimeciX, animeleri keşfedebileceğiniz platform.",
     "fileSize": 172055,
     "language": "tr",
-    "tvTypes": ["Anime"],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://animecix.net&size=16",
-    "apiVersion": 1
+    "tvTypes": [
+      "Anime"
+    ],
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://animecix.net&size=16"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/Animeler.cs3",
@@ -19,13 +43,18 @@
     "version": 41,
     "name": "Animeler",
     "internalName": "Animeler",
-    "authors": ["kraptor", "ByAyzen", "kerimmkirac"],
+    "authors": [
+      "kraptor",
+      "ByAyzen",
+      "kerimmkirac"
+    ],
     "description": "HD kalitesinde ücretsiz anime izle!",
     "fileSize": 52348,
     "language": "tr",
-    "tvTypes": ["Anime"],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeler.pw/&size=128",
-    "apiVersion": 1
+    "tvTypes": [
+      "Anime"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeler.pw/&size=128"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/Animely.cs3",
@@ -33,13 +62,19 @@
     "version": 4,
     "name": "Animely",
     "internalName": "Animely",
-    "authors": ["kraptor", "ByAyzen"],
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
     "description": "Animely ile anime izleyin.",
     "fileSize": 40161,
     "language": "tr",
-    "tvTypes": ["Anime", "AnimeMovie", "OVA"],
-    "iconUrl": "https://play-lh.googleusercontent.com/BIE1R3FVOpIoCPxkx3Erfuw5sVc5wVIbeHAcRuTUGesuvc1S1Cr6KYumGVbn7xABuLc=w240-h480",
-    "apiVersion": 1
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "iconUrl": "https://play-lh.googleusercontent.com/BIE1R3FVOpIoCPxkx3Erfuw5sVc5wVIbeHAcRuTUGesuvc1S1Cr6KYumGVbn7xABuLc=w240-h480"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/AnimPow.cs3",
@@ -47,13 +82,16 @@
     "version": 7,
     "name": "AnimPow",
     "internalName": "AnimPow",
-    "authors": ["ByAyzen"],
+    "authors": [
+      "ByAyzen"
+    ],
     "description": "AnimPow güncel anime arşivi.",
     "fileSize": 77372,
     "language": "tr",
-    "tvTypes": ["Anime"],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animpow.com/&size=128",
-    "apiVersion": 1
+    "tvTypes": [
+      "Anime"
+    ],
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animpow.com/&size=128"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/Anizium.cs3",
@@ -61,13 +99,18 @@
     "version": 25,
     "name": "Anizium",
     "internalName": "Anizium",
-    "authors": ["kerimmkirac", "ByAyzen"],
+    "authors": [
+      "kerimmkirac",
+      "ByAyzen"
+    ],
     "description": "Anizium anime keyfi.",
     "fileSize": 80371,
     "language": "tr",
-    "tvTypes": ["AnimeMovie", "Anime"],
-    "iconUrl": "https://anizium.co/assets/images/logo.png",
-    "apiVersion": 1
+    "tvTypes": [
+      "AnimeMovie",
+      "Anime"
+    ],
+    "iconUrl": "https://anizium.co/assets/images/logo.png"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/AsyaAnimeleri.cs3",
@@ -75,13 +118,16 @@
     "version": 24,
     "name": "AsyaAnimeleri",
     "internalName": "AsyaAnimeleri",
-    "authors": ["kraptor"],
+    "authors": [
+      "kraptor"
+    ],
     "description": "Asya Animeleri – Anime & Donghua izle.",
     "fileSize": 33744,
     "language": "tr",
-    "tvTypes": ["Anime"],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaanimeleri.top/&size=128",
-    "apiVersion": 1
+    "tvTypes": [
+      "Anime"
+    ],
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaanimeleri.top/&size=128"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/AsyaFanatiklerim.cs3",
@@ -89,13 +135,17 @@
     "version": 22,
     "name": "AsyaFanatiklerim",
     "internalName": "AsyaFanatiklerim",
-    "authors": ["kraptor", "kerimmkirac"],
+    "authors": [
+      "kraptor",
+      "kerimmkirac"
+    ],
     "description": "Asya Fanatikleri Kore, Çin ve Tayvan dizileri.",
     "fileSize": 28598,
     "language": "tr",
-    "tvTypes": ["AsianDrama"],
-    "iconUrl": "https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png",
-    "apiVersion": 1
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "iconUrl": "https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/AsyaMinik.cs3",
@@ -103,13 +153,16 @@
     "version": 16,
     "name": "AsyaMinik",
     "internalName": "AsyaMinik",
-    "authors": ["kraptor"],
+    "authors": [
+      "kraptor"
+    ],
     "description": "Asyaminik - Güncel Asya Dizileri.",
     "fileSize": 27275,
     "language": "tr",
-    "tvTypes": ["AsianDrama"],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaminik.com/&size=128",
-    "apiVersion": 1
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaminik.com/&size=128"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/AsyaWatch.cs3",
@@ -117,13 +170,16 @@
     "version": 41,
     "name": "AsyaWatch",
     "internalName": "AsyaWatch",
-    "authors": ["kerimmkirac"],
+    "authors": [
+      "kerimmkirac"
+    ],
     "description": "AsyaWatch dizileri.",
     "fileSize": 72067,
     "language": "tr",
-    "tvTypes": ["AsianDrama"],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=asyawatch.com",
-    "apiVersion": 1
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=asyawatch.com"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/BelgeselX.cs3",
@@ -131,13 +187,17 @@
     "version": 41,
     "name": "BelgeselX",
     "internalName": "BelgeselX",
-    "authors": ["kraptor", "ByAyzen"],
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
     "description": "HD Belgesel izleme platformu.",
     "fileSize": 50644,
     "language": "tr",
-    "tvTypes": ["Documentary"],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=belgeselx.com",
-    "apiVersion": 1
+    "tvTypes": [
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=belgeselx.com"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/CizgiMax.cs3",
@@ -145,13 +205,17 @@
     "version": 36,
     "name": "CizgiMax",
     "internalName": "CizgiMax",
-    "authors": ["kraptor", "ByAyzen"],
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
     "description": "Çizgi Film izleme platformu.",
     "fileSize": 47522,
     "language": "tr",
-    "tvTypes": ["Cartoon"],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cizgimax.online",
-    "apiVersion": 1
+    "tvTypes": [
+      "Cartoon"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cizgimax.online"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/CizgiveDizi.cs3",
@@ -159,13 +223,17 @@
     "version": 50,
     "name": "CizgiveDizi",
     "internalName": "CizgiveDizi",
-    "authors": ["kraptor", "ByAyzen"],
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
     "description": "Çizgi dizi ve dizi arşivi.",
     "fileSize": 43325,
     "language": "tr",
-    "tvTypes": ["Cartoon"],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cizgivedizi.com",
-    "apiVersion": 1
+    "tvTypes": [
+      "Cartoon"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cizgivedizi.com"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/Ddizi.cs3",
@@ -173,13 +241,16 @@
     "version": 19,
     "name": "Ddizi",
     "internalName": "Ddizi",
-    "authors": ["kraptor"],
+    "authors": [
+      "kraptor"
+    ],
     "description": "Yerli ve eski dizi arşivi.",
     "fileSize": 36196,
     "language": "tr",
-    "tvTypes": ["TvSeries"],
-    "iconUrl": "https://www.ddizi.im/images/logo.png",
-    "apiVersion": 1
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.ddizi.im/images/logo.png"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/DiziAsia.cs3",
@@ -187,13 +258,16 @@
     "version": 20,
     "name": "DiziAsia",
     "internalName": "DiziAsia",
-    "authors": ["kerimmkirac"],
+    "authors": [
+      "kerimmkirac"
+    ],
     "description": "Asya Dizileri İzle.",
     "fileSize": 25718,
     "language": "tr",
-    "tvTypes": ["AsianDrama"],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=diziasia.com",
-    "apiVersion": 1
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=diziasia.com"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/DiziAsya.cs3",
@@ -201,13 +275,16 @@
     "version": 27,
     "name": "DiziAsya",
     "internalName": "DiziAsya",
-    "authors": ["kerimmkirac"],
+    "authors": [
+      "kerimmkirac"
+    ],
     "description": "Çin ve Kore dizileri.",
     "fileSize": 39796,
     "language": "tr",
-    "tvTypes": ["AsianDrama"],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.diziasya.com&size=32",
-    "apiVersion": 1
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.diziasya.com&size=32"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/DiziBox.cs3",
@@ -215,13 +292,18 @@
     "version": 37,
     "name": "DiziBox",
     "internalName": "DiziBox",
-    "authors": ["kraptor", "kerimmkirac", "ByAyzen"],
+    "authors": [
+      "kraptor",
+      "kerimmkirac",
+      "ByAyzen"
+    ],
     "description": "Yabancı Dizi izle.",
     "fileSize": 41155,
     "language": "tr",
-    "tvTypes": ["TvSeries"],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.dizibox.de&size=16",
-    "apiVersion": 1
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.dizibox.de&size=16"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/DiziFilmORG.cs3",
@@ -229,13 +311,17 @@
     "version": 22,
     "name": "DiziFilmORG",
     "internalName": "DiziFilmORG",
-    "authors": ["ByAyzen"],
+    "authors": [
+      "ByAyzen"
+    ],
     "description": "Yerli ve yabancı film/dizi.",
     "fileSize": 76756,
     "language": "tr",
-    "tvTypes": ["Movie", "TvSeries"],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizifilm.org&size=128",
-    "apiVersion": 1
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://dizifilm.org/favicon.ico"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/Dizigecesi.cs3",
@@ -243,13 +329,17 @@
     "version": 4,
     "name": "Dizigecesi",
     "internalName": "Dizigecesi",
-    "authors": ["ByAyzen"],
+    "authors": [
+      "ByAyzen"
+    ],
     "description": "Yüksek kalitede Türkçe altyazılı yabancı diziler.",
     "fileSize": 59170,
     "language": "tr",
-    "tvTypes": ["Movie", "TvSeries"],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizigecesi.com/tr&size=128",
-    "apiVersion": 1
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizigecesi.com/tr&size=128"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/DiziKorea.cs3",
@@ -257,13 +347,18 @@
     "version": 35,
     "name": "DiziKorea",
     "internalName": "DiziKorea",
-    "authors": ["Kerimmkirac", "kraptor", "ByAyzen"],
+    "authors": [
+      "Kerimmkirac",
+      "kraptor",
+      "ByAyzen"
+    ],
     "description": "Kore Dizileri izle.",
     "fileSize": 74416,
     "language": "tr",
-    "tvTypes": ["AsianDrama"],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://dizikorea.pw&size=16",
-    "apiVersion": 1
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://dizikorea.pw&size=16"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/DiziLife.cs3",
@@ -271,13 +366,19 @@
     "version": 58,
     "name": "DiziLife",
     "internalName": "DiziLife",
-    "authors": ["kerimmkirac", "kraptor", "ByAyzen"],
+    "authors": [
+      "kerimmkirac",
+      "kraptor",
+      "ByAyzen"
+    ],
     "description": "Dizilife yabancı dizi ve film.",
     "fileSize": 82740,
     "language": "tr",
-    "tvTypes": ["Movie", "TvSeries"],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dizi18.life",
-    "apiVersion": 1
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dizi18.life"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/Dizilla.cs3",
@@ -285,13 +386,17 @@
     "version": 111,
     "name": "Dizilla",
     "internalName": "Dizilla",
-    "authors": ["kraptor", "kerimmkirac"],
+    "authors": [
+      "kraptor",
+      "kerimmkirac"
+    ],
     "description": "1080p yabancı dizi izle.",
     "fileSize": 150195,
     "language": "tr",
-    "tvTypes": ["TvSeries"],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=https://dizilla.to",
-    "apiVersion": 1
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=https://dizilla.to"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/DiziMom.cs3",
@@ -299,13 +404,16 @@
     "version": 61,
     "name": "DiziMom",
     "internalName": "DiziMom",
-    "authors": ["kraptor"],
+    "authors": [
+      "kraptor"
+    ],
     "description": "DiziMom yabancı dizi izleme.",
     "fileSize": 55291,
     "language": "tr",
-    "tvTypes": ["TvSeries"],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.dizimom.mom&size=32",
-    "apiVersion": 1
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.dizimom.mom&size=32"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/DiziPal.cs3",
@@ -313,13 +421,18 @@
     "version": 89,
     "name": "DiziPal",
     "internalName": "DiziPal",
-    "authors": ["kraptor", "ByAyzen"],
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
     "description": "En yeni diziler.",
     "fileSize": 38248,
     "language": "tr",
-    "tvTypes": ["Movie", "TvSeries"],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal.im/&size=128",
-    "apiVersion": 1
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal.im/&size=128"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/DiziPalOrijinal.cs3",
@@ -327,13 +440,18 @@
     "version": 45,
     "name": "DiziPalOrijinal",
     "internalName": "DiziPalOrijinal",
-    "authors": ["kraptor", "kerimmkirac", "ByAyzen"],
+    "authors": [
+      "kraptor",
+      "kerimmkirac",
+      "ByAyzen"
+    ],
     "description": "DiziPal Orijinal.",
     "fileSize": 160865,
     "language": "tr",
-    "tvTypes": ["TvSeries"],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
-    "apiVersion": 1
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/Dizipod.cs3",
@@ -341,13 +459,20 @@
     "version": 12,
     "name": "Dizipod",
     "internalName": "Dizipod",
-    "authors": ["kraptor", "ByAyzen ", "kerimmkirac"],
+    "authors": [
+      "kraptor",
+      "ByAyzen",
+      "kerimmkirac"
+    ],
     "description": "Güncel yabancı diziler.",
     "fileSize": 79339,
     "language": "tr",
-    "tvTypes": ["Movie", "TvSeries", "AsianDrama"],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipod.com&size=128",
-    "apiVersion": 1
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipod.com&size=128"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/DiziYo.cs3",
@@ -355,13 +480,17 @@
     "version": 74,
     "name": "DiziYo",
     "internalName": "DiziYo",
-    "authors": ["kraptor", "ByAyzen"],
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
     "description": "Diziyo ile Dizi, Film, Anime.",
     "fileSize": 36750,
     "language": "tr",
-    "tvTypes": ["TvSeries"],
-    "iconUrl": "https://i.imgur.com/zQYsL6Z.png",
-    "apiVersion": 1
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://i.imgur.com/zQYsL6Z.png"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/DiziYou.cs3",
@@ -369,13 +498,16 @@
     "version": 49,
     "name": "DiziYou",
     "internalName": "DiziYou",
-    "authors": ["ByAyzen"],
+    "authors": [
+      "ByAyzen"
+    ],
     "description": "Türkçe dublaj ve altyazılı yabancı dizi.",
     "fileSize": 57068,
     "language": "tr",
-    "tvTypes": ["TvSeries"],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=www.diziyou.co",
-    "apiVersion": 1
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=www.diziyou.co"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/DramaDizilerim.cs3",
@@ -383,13 +515,16 @@
     "version": 3,
     "name": "DramaDizilerim",
     "internalName": "DramaDizilerim",
-    "authors": ["kraptor"],
+    "authors": [
+      "kraptor"
+    ],
     "description": "Shorts formatında Kore ve Asya dizileri.",
     "fileSize": 23825,
     "language": "tr",
-    "tvTypes": ["AsianDrama"],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dramadizilerim.com",
-    "apiVersion": 1
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dramadizilerim.com"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/FilmEkseni.cs3",
@@ -397,13 +532,17 @@
     "version": 50,
     "name": "FilmEkseni",
     "internalName": "FilmEkseni",
-    "authors": ["kraptor", "ByAyzen"],
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
     "description": "En yeni filmleri full hd izle.",
     "fileSize": 71994,
     "language": "tr",
-    "tvTypes": ["Movie"],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmekseni.net/&size=128",
-    "apiVersion": 1
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmekseni.net/&size=128"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/FilmHane.cs3",
@@ -411,13 +550,17 @@
     "version": 43,
     "name": "FilmHane",
     "internalName": "FilmHane",
-    "authors": ["kraptor", "ByAyzen"],
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
     "description": "Filmhane film arşivi.",
     "fileSize": 60857,
     "language": "tr",
-    "tvTypes": ["Movie"],
-    "iconUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK_Pe3vpG-yUVt1NvckDpaD6COLDitImrBUnHfAVA4fawhijE",
-    "apiVersion": 1
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK_Pe3vpG-yUVt1NvckDpaD6COLDitImrBUnHfAVA4fawhijE"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/FilmMakinesi.cs3",
@@ -425,13 +568,19 @@
     "version": 70,
     "name": "FilmMakinesi",
     "internalName": "FilmMakinesi",
-    "authors": ["kraptor", "usdogu", "nikyokki"],
+    "authors": [
+      "kraptor",
+      "usdogu",
+      "nikyokki"
+    ],
     "description": "Film Makinesi HD Film.",
     "fileSize": 82344,
     "language": "tr",
-    "tvTypes": ["Movie", "TvSeries"],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmmakinesi.tv&size=128",
-    "apiVersion": 1
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmmakinesi.tv&size=128"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/FilmModu.cs3",
@@ -439,13 +588,16 @@
     "version": 41,
     "name": "FilmModu",
     "internalName": "FilmModu",
-    "authors": ["kraptor"],
+    "authors": [
+      "kraptor"
+    ],
     "description": "Film Modu HD film.",
     "fileSize": 29718,
     "language": "tr",
-    "tvTypes": ["Movie"],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmmodu.one/&size=128",
-    "apiVersion": 1
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmmodu.one/&size=128"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/Filmzal.cs3",
@@ -453,13 +605,16 @@
     "version": 16,
     "name": "Filmzal",
     "internalName": "Filmzal",
-    "authors": ["kraptor"],
+    "authors": [
+      "kraptor"
+    ],
     "description": "Filmzal: Azerbaycanca & Türkçe dublaj filmler.",
     "fileSize": 38536,
     "language": "az",
-    "tvTypes": ["Movie"],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmzal.me/&size=128",
-    "apiVersion": 1
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmzal.me/&size=128"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/FullHDFilmizlesene.cs3",
@@ -467,13 +622,17 @@
     "version": 72,
     "name": "FullHDFilmizlesene",
     "internalName": "FullHDFilmizlesene",
-    "authors": ["kraptor", "ByAyzen"],
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
     "description": "Full HD film izleme sitesi.",
     "fileSize": 145777,
     "language": "tr",
-    "tvTypes": ["Movie"],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=www.fullhdfilmizlesene.de",
-    "apiVersion": 1
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=www.fullhdfilmizlesene.de"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/GinikoCanli.cs3",
@@ -481,27 +640,16 @@
     "version": 15,
     "name": "GinikoCanli",
     "internalName": "GinikoCanli",
-    "authors": ["kraptor"],
+    "authors": [
+      "kraptor"
+    ],
     "description": "Canlı TV Kanalları (VPN Gerekebilir).",
     "fileSize": 17904,
     "language": "tr",
-    "tvTypes": ["Live"],
-    "iconUrl": "https://www.giniko.com/images/favicon.ico",
-    "apiVersion": 1
-  },
-  {
-    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/HDFilmCehennemi.cs3",
-    "status": 1,
-    "version": 97,
-    "name": "HDFilmCehennemi",
-    "internalName": "HDFilmCehennemi",
-    "authors": ["kraptor"],
-    "description": "HDFilmCehennemi film ve dizi.",
-    "fileSize": 77589,
-    "language": "tr",
-    "tvTypes": ["Movie", "TvSeries"],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=http://hdfilmcehennemi.nl",
-    "apiVersion": 1
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://www.giniko.com/images/favicon.ico"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/HDFilmDelisi.cs3",
@@ -509,13 +657,16 @@
     "version": 18,
     "name": "HDFilmDelisi",
     "internalName": "HDFilmDelisi",
-    "authors": ["ByAyzen"],
+    "authors": [
+      "ByAyzen"
+    ],
     "description": "HD Film Delisi.",
     "fileSize": 85336,
     "language": "tr",
-    "tvTypes": ["Movie"],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hdfilmdelisi.one/&size=128",
-    "apiVersion": 1
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hdfilmdelisi.one/&size=128"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/HDFilmizle.cs3",
@@ -523,13 +674,16 @@
     "version": 25,
     "name": "HDFilmizle",
     "internalName": "HDFilmizle",
-    "authors": ["ByAyzen"],
+    "authors": [
+      "ByAyzen"
+    ],
     "description": "HD Film İzle.",
     "fileSize": 61436,
     "language": "tr",
-    "tvTypes": ["Movie"],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hdfilmizle.life&size=128",
-    "apiVersion": 1
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hdfilmizle.life&size=128"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/InatBox.cs3",
@@ -537,13 +691,20 @@
     "version": 57,
     "name": "InatBox",
     "internalName": "InatBox",
-    "authors": ["Eagle", "kraptor", "JustRelaxable"],
+    "authors": [
+      "Eagle",
+      "kraptor",
+      "JustRelaxable"
+    ],
     "description": "InatBox Medya Akışı.",
     "fileSize": 57821,
     "language": "tr",
-    "tvTypes": ["Movie", "TvSeries", "Live"],
-    "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
-    "apiVersion": 1
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png"
   },
   {
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/JetFilmizle.cs3",
@@ -551,9 +712,517 @@
     "version": 62,
     "name": "JetFilmizle",
     "internalName": "JetFilmizle",
-    "authors": ["kraptor", "ByAyzen"],
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
     "description": "Jet Film İzle.",
     "fileSize": 64329,
     "language": "tr",
-    "tvTypes": ["Movie"],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jetfilmizle.de&size=128"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/KickTR.cs3",
+    "status": 1,
+    "version": 17,
+    "name": "KickTR",
+    "internalName": "KickTR",
+    "authors": [
+      "ByAyzen",
+      "kraptor"
+    ],
+    "description": "Kick Canlı Yayın Eklentisi.",
+    "fileSize": 40505,
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kick.com&size=48"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/KraptorPlus.cs3",
+    "status": 1,
+    "version": 86,
+    "name": "KraptorPlus",
+    "internalName": "KraptorPlus",
+    "authors": [
+      "kraptor",
+      "Phisher98",
+      "ByAyzen",
+      "Megix"
+    ],
+    "description": "Bir çok sitenin birleştiği toplama eklenti.",
+    "fileSize": 628224,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "Anime",
+      "Cartoon",
+      "AsianDrama",
+      "AnimeMovie"
+    ],
+    "iconUrl": "https://i.imgur.com/zQYsL6Z.png"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/KultFilmler.cs3",
+    "status": 1,
+    "version": 31,
+    "name": "KultFilmler",
+    "internalName": "KultFilmler",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "Kült Filmler Arşivi.",
+    "fileSize": 31282,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kultfilmler.net&size=32"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/MirrorVerse.cs3",
+    "status": 1,
+    "version": 38,
+    "name": "MirrorVerse",
+    "internalName": "MirrorVerse",
+    "authors": [
+      "kraptor",
+      "NivinCNC",
+      "ByAyzen"
+    ],
+    "description": "Platformlar Arası Arama.",
+    "fileSize": 140093,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://i.imgur.com/zQYsL6Z.png"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/OnePaceTr.cs3",
+    "status": 1,
+    "version": 13,
+    "name": "OnePaceTr",
+    "internalName": "OnePaceTr",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "One Pace Türkçe altyazılı izleme.",
+    "fileSize": 31609,
+    "language": "tr",
+    "tvTypes": [
+      "Anime"
+    ],
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.onepacetr.net/&size=128"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/OpenAnime.cs3",
+    "status": 1,
+    "version": 28,
+    "name": "OpenAnime",
+    "internalName": "OpenAnime",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "description": "OpenAnime platformu.",
+    "fileSize": 75097,
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openani.me/&size=24"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/RareFilmm.cs3",
+    "status": 1,
+    "version": 20,
+    "name": "RareFilmm",
+    "internalName": "RareFilmm",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "The Cave of Forgotten Films.",
+    "fileSize": 35376,
+    "language": "en",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://rarefilmm.com&size=128"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/RecTV.cs3",
+    "status": 1,
+    "version": 43,
+    "name": "RecTV",
+    "internalName": "RecTV",
+    "authors": [
+      "Eagle"
+    ],
+    "description": "RecTV Canlı Yayın ve Dizi/Film.",
+    "fileSize": 71232,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "Live",
+      "TvSeries"
+    ],
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://rectvapk.cc&size=128"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/SeiCode.cs3",
+    "status": 1,
+    "version": 25,
+    "name": "SeiCode",
+    "internalName": "SeiCode",
+    "authors": [
+      "kraptor",
+      "ByAyzen",
+      "kerimmkirac"
+    ],
+    "description": "Seicode anime platformu.",
+    "fileSize": 40330,
+    "language": "tr",
+    "tvTypes": [
+      "Anime"
+    ],
+    "iconUrl": "https://seicode.net/favicon.png"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/SelcukFlix.cs3",
+    "status": 1,
+    "version": 49,
+    "name": "SelcukFlix",
+    "internalName": "SelcukFlix",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "description": "Selcukflix dizi ve film.",
+    "fileSize": 66970,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=selcukflix.com"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/SetFilmIzle.cs3",
+    "status": 1,
+    "version": 42,
+    "name": "SetFilmIzle",
+    "internalName": "SetFilmIzle",
+    "authors": [
+      "kraptor",
+      "kerimmkirac",
+      "ByAyzen"
+    ],
+    "description": "Setfilmizle HD film ve dizi.",
+    "fileSize": 69963,
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.setfilmizle.uk/&size=128"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/SezonlukDizi.cs3",
+    "status": 1,
+    "version": 40,
+    "name": "SezonlukDizi",
+    "internalName": "SezonlukDizi",
+    "authors": [
+      "kraptor",
+      "kerimmkirac"
+    ],
+    "description": "Sezonluk Dizi izleme.",
+    "fileSize": 103378,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sezonlukdizi6.com"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/SinemaCX.cs3",
+    "status": 1,
+    "version": 35,
+    "name": "SinemaCX",
+    "internalName": "SinemaCX",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "SinemaCX Filmleri.",
+    "fileSize": 27438,
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.sinema.gg/&size=128"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/SineWix.cs3",
+    "status": 1,
+    "version": 33,
+    "name": "SineWix",
+    "internalName": "SineWix",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "description": "SineWix Film, Dizi ve Anime.",
+    "fileSize": 77299,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama",
+      "Cartoon"
+    ],
+    "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/Sinezy.cs3",
+    "status": 1,
+    "version": 40,
+    "name": "Sinezy",
+    "internalName": "Sinezy",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "Sinezy full hd film izle.",
+    "fileSize": 27908,
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://sinezy.fit&size=128"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/TrAnimeIzle.cs3",
+    "status": 1,
+    "version": 15,
+    "name": "TrAnimeIzle",
+    "internalName": "TrAnimeIzle",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "TrAnimeIzle.",
+    "fileSize": 70894,
+    "language": "tr",
+    "tvTypes": [
+      "Anime"
+    ],
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.tranimeizle.io/&size=128"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/TurkAnime.cs3",
+    "status": 1,
+    "version": 34,
+    "name": "TurkAnime",
+    "internalName": "TurkAnime",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "description": "Türk Anime TV.",
+    "fileSize": 71561,
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.turkanime.co&size=64"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/Turkdizileri.cs3",
+    "status": 1,
+    "version": 33,
+    "name": "Turkdizileri",
+    "internalName": "Turkdizileri",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "TRT1, Showtv, Kanal D ve daha fazla site.",
+    "fileSize": 166804,
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://i.imgur.com/Cff8v6J.png"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/TvDiziler.cs3",
+    "status": 1,
+    "version": 18,
+    "name": "TvDiziler",
+    "internalName": "TvDiziler",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "Tv Diziler Ücretsiz yerli dizi.",
+    "fileSize": 36773,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tvdiziler.cc&size=16"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/WebDramaTurkey.cs3",
+    "status": 1,
+    "version": 39,
+    "name": "WebDramaTurkey",
+    "internalName": "WebDramaTurkey",
+    "authors": [
+      "kraptor",
+      "kerimmkirac",
+      "ByAyzen"
+    ],
+    "description": "Web Drama Turkey - Asya Dizileri.",
+    "fileSize": 55096,
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/WebteIzle.cs3",
+    "status": 0,
+    "version": 53,
+    "name": "WebteIzle",
+    "internalName": "WebteIzle",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "description": "Webteİzle geniş film arşivi.",
+    "fileSize": 67576,
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webteizle1.xyz&size=128"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/WFilmizle.cs3",
+    "status": 1,
+    "version": 23,
+    "name": "WFilmizle",
+    "internalName": "WFilmizle",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "WFilmizle yerli ve yabancı film.",
+    "fileSize": 59836,
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://wfilmizle.bar&size=128"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/YabanciDizi.cs3",
+    "status": 1,
+    "version": 18,
+    "name": "YabanciDizi",
+    "internalName": "YabanciDizi",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "Yabancı Dizi izle.",
+    "fileSize": 41044,
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yabancidizi.so/&size=128"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/YeniKaynak.cs3",
+    "status": 1,
+    "version": 11,
+    "name": "YeniKaynak",
+    "internalName": "YeniKaynak",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "description": "Yeni Kaynak.",
+    "fileSize": 29282,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.yenikaynak.com/&size=16"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/YesilCamTv.cs3",
+    "status": 1,
+    "version": 9,
+    "name": "YesilCamTv",
+    "internalName": "YesilCamTv",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "Yeşilçam Türk sineması.",
+    "fileSize": 22326,
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://yesilcamtv.com.tr/favicon.ico"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/Youtube.cs3",
+    "status": 1,
+    "version": 39,
+    "name": "Youtube",
+    "internalName": "Youtube",
+    "authors": [
+      "Eagle",
+      "ByAyzen",
+      "kraptor"
+    ],
+    "description": "Youtube Entegrasyonu.",
+    "fileSize": 109126,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "Live",
+      "Music",
+      "TvSeries"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/YTS.cs3",
+    "status": 1,
+    "version": 42,
+    "name": "YTS",
+    "internalName": "YTS",
+    "authors": [
+      "kraptor",
+      "Phisher98",
+      "ByAyzen"
+    ],
+    "description": "YTS Torrent Filmleri.",
+    "fileSize": 92937,
+    "language": "tr",
+    "tvTypes": [
+      "Torrent"
+    ],
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.yts-official.mx&size=128"
+  }
+]
