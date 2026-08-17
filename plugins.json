@@ -2,14 +2,17 @@
   {
     "name": "Anizium",
     "internalName": "Anizium",
-    "pluginClassName": "com.kraptor.Anizium",
+    "pluginClassName": "com.kraptor.AniziumPlugin",
     "version": 1,
     "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/Anizium.808112579.cs3",
-    "description": "Anizium Eklentisi",
-    "types": [
-      "TvType.Anime",
-      "TvType.AnimeMovie"
+    "apiVersion": 1,
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
     ],
-    "language": "tr"
+    "language": "tr",
+    "iconUrl": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/Anizium.808112579.cs3",
+    "description": "Anizium Eklentisi"
   }
 ]
