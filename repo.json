@@ -1,7 +1,6 @@
 {
-  "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorfavicon.png",
-  "name": "Kraptor Arşiv Reposu",
-  "description": "Kurtarılan Türkçe Eklenti Deposu",
+  "name": "Sait Yedek Repo",
+  "description": "CloudStream Eklenti Deposu",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/plugins.json"
