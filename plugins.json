@@ -1,18 +1,24 @@
 [
   {
+    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/Anizium.808112579.cs3",
+    "status": 1,
+    "version": 25,
     "name": "Anizium",
     "internalName": "Anizium",
-    "pluginClassName": "com.kraptor.AniziumPlugin",
-    "version": 1,
-    "url": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/Anizium.808112579.cs3",
-    "apiVersion": 1,
-    "tvTypes": [
-      "Anime",
-      "AnimeMovie",
-      "OVA"
+    "authors": [
+      "kerimmkirac",
+      "ByAyzen"
     ],
+    "description": "Anizium ile dünyada ilk ve tek 4K Türkçe dublaj platformunda anime keyfini yaşa. En yeni animeleri İngilizce altyazı ve dublaj seçenekleriyle 1080p ve 4K kalitesinde HD izle.",
+    "fileSize": 80371,
+    "repositoryUrl": "https://github.com/mrsaitbaran-design/csyedek",
     "language": "tr",
-    "iconUrl": "https://raw.githubusercontent.com/mrsaitbaran-design/csyedek/main/Anizium.808112579.cs3",
-    "description": "Anizium Eklentisi"
+    "tvTypes": [
+      "AnimeMovie",
+      "Anime"
+    ],
+    "iconUrl": "https://anizium.co/assets/images/logo.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-8ae8ce4c9e53f6c95530d0ffb8070c8469f4c1d8ea93247f2ef28d6dc7e351fb"
   }
 ]
